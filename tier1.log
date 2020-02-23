@@ -1,0 +1,31 @@
+var x = document.getElementsByClassName('X6or4');
+var i;
+for (i = 0; i < x.length; i++) {
+  var firstElement = x.getElementsByClassName = x[i];
+  var holder = firstElement.getElementsByClassName('_2QLEC')[0];
+  var target = holder.children[0].children[0].children[0].children[0].children[1].children[0].children[0].innerText;
+  var source = holder.children[1].children[0].children[0].children[0].children[1].children[0].children[0].innerText;
+  console.log(source + '||' + target + '|||||');
+}
+rollbar.umd.min.js:2 der Hund||le chien|||||
+rollbar.umd.min.js:2 die Maus||la souris|||||
+rollbar.umd.min.js:2 ein Tier||un animal|||||
+rollbar.umd.min.js:2 die Katze||le chat|||||
+rollbar.umd.min.js:2 der Schmetterling||le papillon|||||
+rollbar.umd.min.js:2 das Schwein||le cochon|||||
+rollbar.umd.min.js:2 die Ente||le canard|||||
+rollbar.umd.min.js:2 ein Vogel||un oiseau|||||
+rollbar.umd.min.js:2 die Kuh||la vache|||||
+rollbar.umd.min.js:2 ein Bär||un ours|||||
+rollbar.umd.min.js:2 die Schildkröte||la tortue|||||
+rollbar.umd.min.js:2 das Pferd||le cheval|||||
+rollbar.umd.min.js:2 der Hahn||le coq|||||
+rollbar.umd.min.js:2 eine Schnecke||un escargot|||||
+rollbar.umd.min.js:2 die Henne||la poule|||||
+rollbar.umd.min.js:2 eine Spinne||une araignée|||||
+rollbar.umd.min.js:2 der Frosch||la grenouille|||||
+rollbar.umd.min.js:2 ein Insekt||un insecte|||||
+rollbar.umd.min.js:2 eine Biene||une abeille|||||
+rollbar.umd.min.js:2 die Fliege||la mouche|||||
+rollbar.umd.min.js:2 die Ameise||la fourmi|||||
+undefined
